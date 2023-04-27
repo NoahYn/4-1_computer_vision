@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ImageRestoration.cpp">
+    <ClCompile Include="ImageRestoration.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
