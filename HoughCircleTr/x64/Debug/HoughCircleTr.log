@@ -1,0 +1,28 @@
+﻿  CannyEdge.cpp
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(175,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(180,36): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(181,36): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(185,40): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(186,40): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(190,36): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(191,36): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(195,40): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(196,40): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(203,41): warning C4244: '=': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(212,20): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(215,25): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(257,17): warning C4244: '초기화 중': 'const _Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(258,23): warning C4244: '초기화 중': '_Ty'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(260,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(266,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(278,18): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\CannyEdge.cpp(308,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HoughCircleTr.vcxproj -> C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\x64\Debug\HoughCircleTr.exe

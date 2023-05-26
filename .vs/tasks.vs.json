@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-HoughCircleTr",
+      "appliesTo": "HoughCircleTr/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-HoughCircleTr",
+      "appliesTo": "HoughCircleTr/",
+      "type": "launch"
+    }
+  ]
+}
