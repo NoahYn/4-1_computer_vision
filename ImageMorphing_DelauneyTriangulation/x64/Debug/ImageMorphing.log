@@ -1,0 +1,90 @@
+﻿  ImageMorphing.cpp
+C:\Users\sungm\opencv\build\include\opencv2\core.hpp(1747,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\sungm\opencv\build\include\opencv2\core.hpp(1747,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\sungm\opencv\build\include\opencv2\core.hpp(1747,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\sungm\opencv\build\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(47,20): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(245,9): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(246,9): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(247,9): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(296,56): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(296,14): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(297,56): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(297,14): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(305,23): warning C4838: '_Tp'에서 'double'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(305,29): warning C4838: '_Tp'에서 'double'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(308,23): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(308,17): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(310,23): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(310,17): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(455,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\ImageMorphing.cpp(456,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ImageMorphing.vcxproj -> C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\ImageMorphing\x64\Debug\ImageMorphing.exe

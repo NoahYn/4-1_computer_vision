@@ -1,1 +1,0 @@
-C:\Users\sungm\source\repos\NoahYn\4-1_computer_vision\HoughCircleTr\x64\Debug\HoughCircleTr.exe
